@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DeshBook (Alpha)</string>
+    <string name="appbar_scrolling_view_behavior">Swipe to Refresh...</string>
+</resources>
